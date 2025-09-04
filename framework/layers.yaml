@@ -1,0 +1,16 @@
+layers:
+  - name: Settlement & Value
+    description: Foundational layer for stablecoins, wallets, and chain interoperability.
+    examples: [USDT, USDC, DAI, OpenUSDT, Ethereum, Base, Optimism]
+
+  - name: DeFi Engines
+    description: Liquidity multipliers for capital efficiency.
+    examples: [Aave, Velodrome, Uniswap, Curve, GMX, Lido, Flashloans]
+
+  - name: GameFi & NFT
+    description: Cultural economy of NFTs, digital identity, and play-to-earn.
+    examples: [OpenSea, Blur, TreasureDAO, Corpus Animatous, ERC-721, ERC-1155]
+
+  - name: Governance & Intelligence
+    description: Strategic and autonomous decision-making layer.
+    examples: [Snapshot, Gnosis Safe, The Graph, LionStack, Trae AI, Orchestrator AI]
